@@ -5,8 +5,8 @@
     //client will run localhost:3333
       npm run dev
       
-     //to run test senarios
-     npm run test -- --coverage
+    //to run test senarios
+      npm run test -- --coverage
      
 
 
