@@ -53,7 +53,7 @@ learn?**
         "passion": "learning",
         "belief": "science",
         "motto": "i never failed, i either win or learn",
-        "personality": ["optimistic","joyful","sarcastic"],
+        "personality": ["optimistic", "joyful", "sarcastic"],
         "hobbies": ["sport", "cinema", "hiking"],
         "favouriteMovies": ["the man from earth", "2001: a space odyssey", "mr. nobody"]
     }
