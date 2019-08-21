@@ -2,7 +2,6 @@ const express = require("express");
 const router = express.Router();
 const quoteManager = require("../managers/quoteManager");
 
-//TO DO: GLOBAL ERROR HANDLING!!!
 router.get("/", async function(req, res) {
   try {
     if (!req.query.symbol) {

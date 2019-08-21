@@ -1,5 +1,5 @@
 module.exports = {
-  DEFAULT_PORT: 4000,
+  DEFAULT_PORT: 4444,
   COIN_MARKET_CAP_API_ENDPOINT:
     "https://pro-api.coinmarketcap.com/v1/cryptocurrency/quotes/latest",
   COIN_MARKET_CAP_API_KEY: "06996bb9-2f6f-4c2c-91ce-4fba792989f6",
