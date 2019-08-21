@@ -55,5 +55,5 @@ learn?**
         "motto": "i never failed, i either win or learn",
         "personality": ["optimistic", "joyful", "sarcastic"],
         "hobbies": ["sport", "cinema", "hiking"],
-        "favouriteMovies": ["the man from earth", "2001: a space odyssey", "mr. nobody"]
+        "favouriteMovies": ["the man from earth", "2001: a space odyssey", "mr. nobody", "matrix"]
     }
