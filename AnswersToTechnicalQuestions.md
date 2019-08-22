@@ -2,8 +2,8 @@
 more time? If you didn't spend much time on the coding assignment then use this as an opportunity to
 explain what you would add.**
 
-- I spent 3 hours for webpack configuration and build system, 4 hours developing frontend and backend application also 1.5 hours adding test senarios.
-- If I had more time i will consider to develop application with Typescript, also i would add real time data update with socket.io
+- I spent 2 hours for webpack configuration and build system, 4 hours developing frontend and backend application also 1.5 hours adding test senarios.
+- If I had more time i will consider to develop application with Typescript, also i would add real time data update with socket.io, and i would split backend and front applications and run in containers. 
 
 **2. What was the most useful feature that was added to the latest version of your language of choice
 Please include a snippet of code that shows how you've used it.**
